@@ -1,1 +1,4 @@
 all-files.7z 
+venv/
+__pycache__/
+*.pyc
